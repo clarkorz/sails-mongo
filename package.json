@@ -34,7 +34,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-mongo.git"
+    "url": "git://github.com/clarkorz/sails-mongo.git"
   },
   "dependencies": {
     "async": "~0.2.9",
