@@ -1,6 +1,6 @@
 {
   "name": "sails-mongo",
-  "version": "0.10.0-rc4",
+  "version": "0.10.0-rc5",
   "description": "Mongo DB adapter for Sails.js",
   "main": "./lib/adapter.js",
   "scripts": {
@@ -37,9 +37,9 @@
     "url": "git://github.com/clarkorz/sails-mongo.git"
   },
   "dependencies": {
-    "async": "~0.2.9",
+    "async": "~0.8.0",
     "lodash": "~2.4.1",
-    "mongodb": "1.4.2",
+    "mongodb": "1.4.4",
     "waterline-errors": "~0.10.0"
   },
   "devDependencies": {
@@ -52,7 +52,6 @@
     "interfaces": [
       "semantic",
       "queryable",
-      "migratable",
       "associations"
     ]
   }
