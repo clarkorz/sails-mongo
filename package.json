@@ -38,10 +38,11 @@
   },
   "dependencies": {
     "async": "~0.8.0",
+    "autocast": "0.0.4",
     "lodash": "~2.4.1",
     "mongodb": "~1.4.4",
-    "waterline-errors": "~0.10.0",
-    "waterline-cursor": "~0.0.0"
+    "waterline-cursor": "~0.0.0",
+    "waterline-errors": "~0.10.0"
   },
   "devDependencies": {
     "mocha": "*",
